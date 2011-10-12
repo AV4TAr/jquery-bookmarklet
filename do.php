@@ -1,0 +1,1 @@
+<a href="javascript:(function(){var s = document.createElement('script');s.src = 'http://localhost/bookmarklet/book.js';document.body.appendChild(s);})();">book_it</a>
